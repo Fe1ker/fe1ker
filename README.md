@@ -1,8 +1,8 @@
-<h2>Olá mundo, eu sou o Matheus 🖖</h2> <hr>
+<h2>Olá mundo, eu sou o Matheus 🖖</h2> 
 
 
 <h3>Sobre mim:</h3>
-Olá meu nome é Matheus Santos Gomes Ferreira, atualmente estudo no instituto federal de Minas Gerais, no 2º período de analise e desenvolvimento de sistemas<br>
+Olá meu nome é Matheus Santos Gomes Ferreira, atualmente estudo no instituto federal de Minas Gerais, no 2º período de analise e desenvolvimento de sistemas
 
  <h3>entre em contato pelo: </h3>
  
