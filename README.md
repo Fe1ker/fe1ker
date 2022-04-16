@@ -1,4 +1,3 @@
-### Hi there 👋
 - 🌱 atualmente aprendendo python
 
 <div align="center">
