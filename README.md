@@ -8,7 +8,7 @@
   
   
  <div style="display: inline_block"><br>
-   <h3>Principais Linguagens : </h3>
+   <h3>Principais Linguagens que estou aprendendo : </h3>
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><br>
