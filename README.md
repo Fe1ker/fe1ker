@@ -4,7 +4,7 @@ Olá mundo eu sou o Matheus 🖖 <br><hr>
 <h3>Sobre mim:</h3>
 Olá meu nome é Matheus Santos Gomes Ferreira, atualmente estudo no instituto federal de Minas Gerais, no 2º período de analise e desenvolvimento de sistemas<br>
 
- <h3>entre em contato pelo</h3>:
+ <h3>entre em contato pelo: </h3>
  
  <div> 
   <a href="https://www.instagram.com/matheus_sgf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
