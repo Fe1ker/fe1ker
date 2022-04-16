@@ -1,4 +1,4 @@
-<h2>Olá mundo, eu sou o Matheus 🖖</h2> <br><hr>
+<h2>Olá mundo, eu sou o Matheus 🖖</h2> <hr>
 
 
 <h3>Sobre mim:</h3>
