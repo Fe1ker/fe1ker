@@ -1,4 +1,4 @@
-- 🌱 atualmente aprendendo python
+- Apaixonado por tecnologia 🤖 
 
 <div align="center">
   <a href="https://github.com/fe1ker">
