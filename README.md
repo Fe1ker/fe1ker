@@ -10,9 +10,10 @@ Olá meu nome é Matheus Santos Gomes Ferreira, atualmente estudo no instituto f
   <a href="https://www.instagram.com/matheus_sgf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheuscontato96@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-santos-gomes-ferreira-5b898b233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5553999051310&text=ol%C3%A1%2Cgostei%20do%20seu%20curriculo%2C%20gostaria%20de%20saber%20mais%20sobre%20voc%C3%AA..." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" target="_blank"></a>
  
    
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" target="_blank"></a>
+ 
  
  
 </div>
