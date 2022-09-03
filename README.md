@@ -1,5 +1,4 @@
 <h2>Olá mundo, eu sou o Matheus 🖖</h2> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=casmei&label=Profile%20views&color=28a464&style=flat" alt="suburbanno" /> </p>
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 
