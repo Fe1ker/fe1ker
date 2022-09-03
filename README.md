@@ -1,4 +1,6 @@
 <h2>Olá mundo, eu sou o Matheus 🖖</h2> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=casmei&label=Profile%20views&color=28a464&style=flat" alt="suburbanno" /> </p>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 
 <h3>Sobre mim:</h3>
@@ -19,9 +21,7 @@ Olá meu nome é Matheus Santos Gomes Ferreira, atualmente estudo no instituto f
 </div>
 
 
-<div align="left">
-  <a href="https://github.com/fe1ker">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fe1ker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></div>
+
   
   
   
