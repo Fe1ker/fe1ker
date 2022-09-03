@@ -3,7 +3,7 @@
 
 
 <h3>Sobre mim:</h3>
-Olá meu nome é Matheus Santos Gomes Ferreira, atualmente estudo no instituto federal de Minas Gerais, no 2º período de analise e desenvolvimento de sistemas
+Olá meu nome é Matheus Santos Gomes Ferreira, atualmente estudo no instituto federal de Minas Gerais, no 3º período de analise e desenvolvimento de sistemas
 
  <h3>entre em contato pelo: </h3>
  
